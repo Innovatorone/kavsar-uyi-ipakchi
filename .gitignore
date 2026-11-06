@@ -1,0 +1,9 @@
+node_modules/
+art/
+art-build/
+shots/
+*_raw.glb
+ctx_tmp.glb
+ipakchi_opt.glb
+meta.json
+shot.mjs
